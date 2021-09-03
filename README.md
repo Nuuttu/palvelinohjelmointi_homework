@@ -1,0 +1,2 @@
+# palvelinohjelmointi_homework
+homework exercises for course palvelinohjelmointi
